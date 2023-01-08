@@ -12,7 +12,7 @@
 
 - 🤝 I'm interested in **Software Development and Open Source**
 
-- 📫 How to reach me **Email:devedib09@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
