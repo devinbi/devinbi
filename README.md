@@ -10,7 +10,7 @@
 - 🎓 I’m currently studying at SLIIT (undergraduate) 
 - 🌱 I’m currently learning **React-native**
 
-- 🤝 I'm interested in **Software Development and Open Source**
+
 
 
 
